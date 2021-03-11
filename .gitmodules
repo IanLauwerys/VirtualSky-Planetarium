@@ -1,0 +1,4 @@
+[submodule "wp-virtualsky/public/virtualsky"]
+	path = wp-virtualsky/public/virtualsky
+	url = https://github.com/IanLauwerys/VirtualSky
+	branch = wp-plugin
